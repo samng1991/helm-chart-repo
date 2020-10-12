@@ -101,7 +101,7 @@ entries:
     sources:
     - https://github.com/weaveworks/flagger
     urls:
-    - https://flagger.app/flagger-1.2.0.tgz
+    - https://github.com/samng1991/helm-chart-repo/blob/main/flagger/flagger-1.2.0.tgz?raw=true
     version: 1.2.0
   - apiVersion: v1
     appVersion: 1.1.0
