@@ -1481,7 +1481,7 @@ entries:
     sources:
     - https://github.com/weaveworks/flagger
     urls:
-    - https://flagger.app/loadtester-0.18.0.tgz
+    - https://github.com/samng1991/helm-chart-repo/blob/main/flagger/loadtester-0.18.0.tgz?raw=true
     version: 0.18.0
   - apiVersion: v1
     appVersion: 0.17.0
